@@ -22,7 +22,7 @@ An AI-powered drug safety monitoring system that predicts potential drug-drug in
 
 \## Live Demo
 
-\[Click here to view the live app](https://your-app-url.streamlit.app)
+\[Click here to view the live app]((https://ramdrugsafetyai.streamlit.app/))
 
 
 
